@@ -1,0 +1,12 @@
+.localhistory/
+output/
+.vs/
+*.*sdf
+*.aps
+*.bak
+*.ini
+*.suo
+*.user
+*.xml
+*.db
+*.opendb
