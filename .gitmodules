@@ -1,0 +1,9 @@
+[submodule "Common"]
+	path = Common
+	url = git@github.com:Xebeth/dependencies-common.git
+[submodule "StringUtils"]
+	path = StringUtils
+	url = git@github.com:Xebeth/dependencies-stringutils.git
+[submodule "SigScan"]
+	path = SigScan
+	url = git@github.com:Xebeth/dependencies-sigscan.git
