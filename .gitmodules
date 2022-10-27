@@ -7,3 +7,6 @@
 [submodule "SigScan"]
 	path = SigScan
 	url = git@github.com:Xebeth/dependencies-sigscan.git
+[submodule "HookManager"]
+	path = HookManager
+	url = git@github.com:Xebeth/dependencies-hookmanager.git
